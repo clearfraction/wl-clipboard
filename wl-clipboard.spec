@@ -1,5 +1,5 @@
 Name     : wl-clipboard
-Version  : 2.1.0
+Version  : 2.2.1
 Release  : 1
 URL      : https://github.com/bugaevc/wl-clipboard
 Source0  : https://github.com/bugaevc/wl-clipboard/archive/refs/tags/v%{version}.tar.gz
